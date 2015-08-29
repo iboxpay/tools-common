@@ -6,7 +6,6 @@
 # and then change Nginx/Apache config and reload.
 #
 # Writen by Lytsing Huang 2013-12-03
-# $Id$
 #
 
 require 'rubygems'
