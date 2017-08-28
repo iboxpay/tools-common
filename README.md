@@ -30,3 +30,8 @@ tools-common for test,develop,maintain system.
 - `weblogcheckutf8.sh`
 
 	web日志分析脚本
+	
+- `insert_copyright.sed`
+
+        插入盒子支付代码版权信息
+
