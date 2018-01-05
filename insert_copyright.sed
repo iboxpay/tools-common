@@ -1,7 +1,7 @@
 #!/usr/bin/sed -f
 1 i\
 /*\
- * Copyright (C) 2011-2017 ShenZhen iBOXPAY Information Technology Co.,Ltd.\
+ * Copyright (C) 2011-2018 ShenZhen iBOXSaaS Information Technology Co.,Ltd.\
  *\
  * All right reserved.\
  *\
